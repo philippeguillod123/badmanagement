@@ -1,4 +1,5 @@
 # badmanagement
+Philippe Guillod - former VP at Lottoland - A Case Study
 A real example when a Manager Becomes a Risk: How Certain Leadership Patterns Quietly Destroy Teams
 There is a persistent myth in organizations that any technically competent or commercially successful individual can be trusted with people management. In reality, leadership is not neutral. When exercised poorly, it becomes a risk one that compounds over time and harms individuals, teams, and the organization itself.
 
